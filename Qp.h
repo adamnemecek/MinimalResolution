@@ -1,11 +1,11 @@
 // Qp.h
 #pragma once
 #include <vector>
-#include <gmpxx.h>
+// #include <gmpxx.h>
 #include "algebra.h"
 
 // the type of the numerators
-typedef mpz_class num_type;
+typedef int num_type;
 
 // an p-rational number has a numerator and a valuation serving as the power of the denominator
 typedef struct
