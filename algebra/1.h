@@ -1,4 +1,4 @@
-#include<string>
-#include<iostream>
+#include <string>
+#include <iostream>
 #pragma once
 using std::string;

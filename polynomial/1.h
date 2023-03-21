@@ -1,3 +1,3 @@
-//polynomial.h
+// polynomial.h
 #pragma once
-#include"modules.h"
+#include "modules.h"

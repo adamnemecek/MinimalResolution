@@ -1,6 +1,6 @@
-//modules.h
+// modules.h
 #pragma once
 #include "algebra.h"
-#include<vector>
-#include<functional>
-#include<algorithm>
+#include <vector>
+#include <functional>
+#include <algorithm>
